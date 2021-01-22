@@ -1,7 +1,4 @@
-### Hi there 👋
-
-<!--
-**IsmailSepon/IsmailSepon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Here is what Im working on.. 👋
 
 I am Happy To Know That You Just Visited My Github Profile
 
@@ -12,4 +9,4 @@ I am Happy To Know That You Just Visited My Github Profile
 - 💬 Ask me about ... Android App Development 
 - 📫 How to reach me: ... mail : ismailhossainsepon@gmail.com | f : https://www.facebook.com/isepon/ | in : https://www.linkedin.com/in/md-ismail-hossain-sepon-847564125/
 - 😄 Pronouns: ... Ismail Hossain Sepon
--->
+
