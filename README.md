@@ -3,7 +3,7 @@
 I am Happy To Know That You Just Visited My Github Profile
 
 - 🔭 I’m currently working on ... Android Apps Development
-- 🌱 I’m currently learning ... MVVM Architecture 
+- 🌱 I’m currently learning ... IOS & Flutter  
 - 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... IOS APP development
 - 💬 Ask me about ... Android App Development 
