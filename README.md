@@ -2,11 +2,9 @@
 
 I am Happy To Know That You Just Visited My Github Profile
 
-- 🔭 I’m currently working on ... Android Apps Development
+- 🔭 I’m currently working on ... Mobile Apps Development
 - 🌱 I’m currently learning ... IOS & Flutter  
-- 👯 I’m looking to collaborate on ... Projects
 - 🤔 I’m looking for help with ... IOS APP development
 - 💬 Ask me about ... Android App Development 
-- 📫 How to reach me: ... mail : ismailhossainsepon@gmail.com | f : https://www.facebook.com/isepon/ | in : https://www.linkedin.com/in/md-ismail-hossain-sepon-847564125/
-- 😄 Pronouns: ... Ismail Hossain Sepon
+- 📫 How to reach me: ... mail : ismailhossainsepon@gmail.com 
 
